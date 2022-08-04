@@ -1,9 +1,5 @@
 # Jane Soccer Challenge
 
-# Project Overview:
-
-This project is an implementation of a script the reads a listing of game results for a soccer league, returning the top teams at the end of a given match.
-
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -11,6 +7,8 @@ This project is an implementation of a script the reads a listing of game result
 1. [Usage](#usage)
 
 ## Overview
+
+This project is an implementation of a script the reads a listing of game results for a soccer league, returning the top teams at the end of a given match.
 
 #### Client Interface:
 
