@@ -122,5 +122,6 @@ function getTopThree(obj) {
 Overall this was a really fun excercise! If I had more time I would probably aim for two things specifically
 - Automated Tests 
 - Possibly redefining data structure, ended up switching between objects and arrays several times for accessing values which can be confusing 
+- Accounting for the case that there is a file tested against the script with only one match
 
 # Thank You ! :)
