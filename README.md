@@ -24,7 +24,7 @@ This project is an implementation of a script the reads a listing of game resutl
 
 #### Command Line 
 
-> 1. To execute the script based on the original input `cd` into the home director of this repository and run  `node mathchday.js`
+> 1. To execute the script based on the original input `cd` into the home directory of this repository and run  `node mathchday.js`
 
 #### Tests
 
