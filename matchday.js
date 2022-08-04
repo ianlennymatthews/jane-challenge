@@ -109,7 +109,9 @@ function calculateResults(matchDays) {
     let topThree = getTopThree(matchScore);
 
     for (const score of topThree) {
-      process.stdout.write(score[0] + ", " + score[1] + " pts" + "\n");
+      process.stdout.write(
+        score[0] + ", " + score[1] + (score[1] === 1 ? " pt" : " pts") + "\n"
+      );
     }
 
     process.stdout.write("\n");
