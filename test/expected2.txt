@@ -1,0 +1,9 @@
+Matchday 1
+Golden State, 3 pts
+Grizzlies, 3 pts
+Lakers, 3 pts
+
+Matchday 2
+Golden State, 6 pts
+Grizzlies, 6 pts
+Raptors, 6 pts

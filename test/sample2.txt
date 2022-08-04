@@ -1,0 +1,10 @@
+Golden State 10, Knicks 5
+Lakers 2, Bucks 1
+Raptors 34, Heat 11
+Grizzlies 99, Celtics 1
+Hawks 0, Mavericks 0
+Hawks 10, Celtics 1
+Mavericks 2, Grizzlies 100
+Heat 190, Golden State 200
+Raptors 67, Bucks 1
+Knicks 1000000, Lakers 1
