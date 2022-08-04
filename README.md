@@ -14,7 +14,7 @@ This project is an implementation of a script the reads a listing of game resutl
 
 #### Client Interface:
 
-![interface](https://media.giphy.com/media/ScEsRGuGk3kw9R4GMS/giphy.gif)
+![interface](https://media.giphy.com/media/XaSVOo0BD0sivemH2X/giphy.gif)
 
 ## Requirements
 
