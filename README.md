@@ -30,5 +30,5 @@ This project is an implementation of a script the reads a listing of game resutl
 
 > 1. See test folder with other sample input .txt files 
 
-- [Slide deck of more results found here!]()
+- [Design doc found here!](https://github.com/ianlennymatthews/jane-challenge/blob/main/DESIGNDOC.md)
 
