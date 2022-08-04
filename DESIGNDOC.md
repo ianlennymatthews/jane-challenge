@@ -70,7 +70,7 @@ function calculateResults(matchDays) {
   }
 ```
 - During implementation I was also aware of the following step which was to sort the results both alphabetically and numerically
-- For readability, seperated it into a seperate function that calls is called in ``calculateResults``
+- For readability, seperated it into a seperate helper function that calls is called in ``calculateResults``
 
 ```
 function getTopThree(obj) {
@@ -97,7 +97,7 @@ function getTopThree(obj) {
 
 ## Challenges 
 
-- Initial Implementation of calculate resuluts function 
+- Initial Implementation of calculate results function 
 
 #### Before
 
@@ -113,6 +113,8 @@ function getTopThree(obj) {
 - much more dry and readable 
 - defaults allow for less to be assumed about checking if key already exists in object or not 
 - less lines of code!
+
+- Also took a bit of time working on the sort function, wasnt aware of ``localeCompare`` until given the task
 ---
 
 ## Conclusion
