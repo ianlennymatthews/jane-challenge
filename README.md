@@ -2,7 +2,7 @@
 
 # Project Overview:
 
-This project is an implementation of a script the reads a listing of game resutls for a soccer league, returning the top teams at the end of a given match.
+This project is an implementation of a script the reads a listing of game results for a soccer league, returning the top teams at the end of a given match.
 
 ## Table of Contents
 
