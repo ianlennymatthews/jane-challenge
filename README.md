@@ -27,6 +27,7 @@ This project is an implementation of a script the reads a listing of game result
 #### Tests
 
 > 1. See test folder with other sample input .txt files 
+> 1. Implementations of test due rely on there being a new line at the end of each file, which is in accordance with the sample file given 
 
 - [Design doc found here!](https://github.com/ianlennymatthews/jane-challenge/blob/main/DESIGNDOC.md)
 
